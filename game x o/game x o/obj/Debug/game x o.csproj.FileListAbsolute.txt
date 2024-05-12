@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\game x o\game x o\bin\Debug\game x o.exe.config
+C:\Users\Lenovo\source\repos\game x o\game x o\bin\Debug\game x o.exe
+C:\Users\Lenovo\source\repos\game x o\game x o\bin\Debug\game x o.pdb
+C:\Users\Lenovo\source\repos\game x o\game x o\obj\Debug\game x o.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\game x o\game x o\obj\Debug\game_x_o.Form1.resources
+C:\Users\Lenovo\source\repos\game x o\game x o\obj\Debug\game_x_o.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\game x o\game x o\obj\Debug\game x o.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\game x o\game x o\obj\Debug\game x o.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\game x o\game x o\obj\Debug\game x o.exe
+C:\Users\Lenovo\source\repos\game x o\game x o\obj\Debug\game x o.pdb
